@@ -809,3 +809,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.03-06.49.20:155][211]LogContentValidation: Display: MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData 유효성 검사
 [2022.02.03-06.49.20:156][211]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사
 [2022.02.03-06.50.56:717][ 75]Cmd: SELECT NONE
+[2022.02.03-06.54.45:830][382]LogFileManager: Warning: DeleteFile was unable to delete 'E:/Unreal Project/UnrealReal/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2022.02.03-06.54.46:163][383]LogFileManager: Warning: DeleteFile recovered during retry!
